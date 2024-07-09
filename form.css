@@ -1,0 +1,48 @@
+h2{
+    background-color: rgb(128, 136, 125);
+}
+form{
+    background-color: rgba(209, 231, 190, 0.64);
+    margin: 0px 190px 0px 190px;
+    border-radius: 30px;
+    padding: 10px;
+
+}
+form:hover{
+    background-color: rgba(189, 127, 127, 0.027);
+}
+input{
+    margin: 5px;
+    border-radius: 5px;
+    background-color: rgb(226, 210, 210);
+}
+select{
+    margin: 5px;
+    border-radius: 5px;
+    background-color:rgba(202, 207, 154, 0);;
+}
+textarea{
+    border-radius: 5px;
+    background-color:rgba(131, 180, 136, 0);;
+}
+input:hover{
+    background-color: rgb(179, 203, 158);
+}
+select:hover{
+    background-color: rgba(213, 244, 188, 0.053);
+}
+textarea:hover{
+    background-color: rgb(213, 244, 188);
+}
+button{
+    background-color: rgb(17, 234, 220);
+}
+button:hover{
+    background-color: rgba(150, 201, 150, 0.501);
+}
+body{
+    background-image: url('222.jfif');
+    background-size: cover;
+    background-attachment: fixed;
+  
+  }
